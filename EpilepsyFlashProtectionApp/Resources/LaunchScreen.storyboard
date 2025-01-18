@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15100" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <objects>
+        <scene sceneID="A1">
+            <objects>
+                <viewController id="VC1" customClass="UIViewController" customModule="EpilepsyFlashProtectionApp" customModuleProvider="target">
+                    <view key="view" contentMode="scaleToFill" id="view1">
+                        <rect key="frame" x="0" y="0" width="375" height="667"/>
+                        <subviews>
+                            <label id="label1">
+                                <rect key="frame" x="20" y="20" width="335" height="50"/>
+                                <font key="font" name="HelveticaNeue-Bold" size="24"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
+                                <text key="text">Epilepsy Flash Protection</text>
+                                <nil key="attributedText"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1.0" green="1.0" blue="1.0" alpha="1" colorSpace="deviceRGB"/>
+                    </view>
+                </viewController>
+            </objects>
+        </scene>
+    </objects>
+    <resources>
+        <image name="LaunchImage" width="375" height="667"/>
+    </resources>
+</document>
