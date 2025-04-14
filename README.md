@@ -4,7 +4,7 @@ IOS version of Epilepsy Active Protection Extension for web
 
 A Swift application designed to protect users from harmful flashing content in videos by analyzing video frames and applying dynamic brightness control.
 
-This is a work in progress, and will be updated less commonly that the extension.
+This is a work in progress, and will be updated less commonly that the extension, progress will be slow.
 
 ## Key Features
 
@@ -46,9 +46,7 @@ EpilepsyFlashProtectionApp
 - Users can adjust sensitivity levels and toggle high contrast mode through the settings interface.
 - Statistics related to flash detections are displayed in the stats view.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## License
 
